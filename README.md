@@ -4,7 +4,7 @@
 
 ## Technologies
 ``` bash
-Vue.js | VueX | Firebase - Firestore | vue-awesome
+Vue.js | VueX | Firebase - Firestore | vue-awesome | PostCSS
 ```
 
 ## Features
