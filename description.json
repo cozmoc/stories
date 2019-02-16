@@ -1,0 +1,33 @@
+{
+  "PERSONAL_INFORMATION": {
+    "NAME": "Ahmad Alhasan",
+    "TITLE": "Full-Stack Software Engineer",
+    "YEARS_OF_PROFFESSIONAL_EXPERIENCE": 4,
+    "EMAIL": "ahmadalhasancv@gmail.com",
+    "PHONE_NUMBER": "+962790137197",
+    "IS_CREATIVE_ENOUGH_FOR_BRITECORE": true
+  },
+  "BRIEF": "An Engineer with the vision of Innovation in the fields of Software & Hardware Development",
+  "MAIN_OBJECTIVES": "Learn, Grow, Collaborate, Create awesome stuff with the team",
+  "STRENGTHS": [
+    "Quick Learning",
+    "Problem Solving",
+    "Autonomous Learning",
+    "Creativity",
+    "Time Management"
+  ],
+  "WEAKNESSES": [
+    "Management",
+    "Leadership"
+  ],
+  "ACHIEVEMENTS": [
+    "Chosen on of the Top 10 inventors in the Arab World at Stars Of Science TV program for a revolutionary invention (working on a patent): https://youtu.be/KDEKzE76Zp0",
+    "Learned Software Engineering in RBK(RebootKamp), A coding bootcamp that focuses on Skills over Technologies"
+  ],
+  "LINKS": {
+    "PORTFOLIO": "http://cv.mixance.com",
+    "BLOG": "http://mixance.com",
+    "LINKEDIN": "http://linkedin.com/in/ahmad-alhasan",
+    "GITHUB": "http://github.com/cozmoc"
+  }
+}
