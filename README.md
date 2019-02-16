@@ -28,6 +28,23 @@ npm run unit
 npm test
 ```
 
+## Technologies
+``` bash
+Vue.js | VueX | Firebase - Firestore | vue-awesome
+```
+
+## Features
+``` bash
+1. Login/Signup with your email and password, Forgot password functionality is implemented.
+2. Watch Payments Change in real-time because we are using Firebase DB.
+3. Search for payments by Name or Description.
+4. Sort and Filter payments on multiple options.
+5. Multiple Selection Actions (Bulk Actions) for selective payments (only Delete for now).
+6. View payment and update its description or add notes and see what others have added before.
+7. Responsive for all platforms.
+8. Update your profile in settings.
+```
+
 ## Questions
 
 ``` bash
@@ -49,5 +66,5 @@ You can create copies of objects, arrays and work with immutability,
 you can swap items or create variables without having to write more than one line and create a mess.
 
 # What is your favorite third-party Vue.js library? Why?
-Since this is my first time using Vue.js, I find VueX an awesome solution to many state management problems.
+Since this is my first time using VueX, I find VueX an awesome solution to many state management problems.
 ```
