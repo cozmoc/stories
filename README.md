@@ -2,6 +2,23 @@
 
 > Supervisor user monitoring system
 
+## Technologies
+``` bash
+Vue.js | VueX | Firebase - Firestore | vue-awesome
+```
+
+## Features
+``` bash
+1. Login/Signup with your email and password, Forgot password functionality is implemented.
+2. Watch Payments Change in real-time because we are using Firebase DB.
+3. Search for payments by Name or Description.
+4. Sort and Filter payments on multiple options.
+5. Multiple Selection Actions (Bulk Actions) for selective payments (only Delete for now).
+6. View payment and update its description or add notes and see what others have added before.
+7. Responsive for all platforms.
+8. Update your profile in settings.
+```
+
 ## Build Setup
 
 ``` bash
@@ -26,23 +43,6 @@ npm run unit
 
 # run all tests
 npm test
-```
-
-## Technologies
-``` bash
-Vue.js | VueX | Firebase - Firestore | vue-awesome
-```
-
-## Features
-``` bash
-1. Login/Signup with your email and password, Forgot password functionality is implemented.
-2. Watch Payments Change in real-time because we are using Firebase DB.
-3. Search for payments by Name or Description.
-4. Sort and Filter payments on multiple options.
-5. Multiple Selection Actions (Bulk Actions) for selective payments (only Delete for now).
-6. View payment and update its description or add notes and see what others have added before.
-7. Responsive for all platforms.
-8. Update your profile in settings.
 ```
 
 ## Questions
